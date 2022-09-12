@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {margin: 0; height: 100%; overflow: hidden}
+@import url(https://allfont.net/allfont.css?fonts=star-jedi);
